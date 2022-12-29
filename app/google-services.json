@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330873531823",
+    "firebase_url": "https://garage-demo-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "garage-demo-app",
+    "storage_bucket": "garage-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330873531823:android:e2751ab36881cc28c3135a",
+        "android_client_info": {
+          "package_name": "dev.tomco.a23a_10357_l10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330873531823-2jv34pougd3c34ekdfgkce1s05oirt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcfoJk7zsz7NTJdyMl1BRvmN5f5M1lY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330873531823-2jv34pougd3c34ekdfgkce1s05oirt7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
