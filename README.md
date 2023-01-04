@@ -1,5 +1,6 @@
-# 23A-10357-L10
-* Firebase Introduction
-* RealTime Database
-* Authentication
+# 23A-10357-L11
+* Firebase Authentication
 * Firebase UI
+* Lottie
+* Animations
+* Splash Screens
